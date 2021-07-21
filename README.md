@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheoJoo
+- 👋 Hi, I’m Theo
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning Data Engineering
 - 📫 How to reach me : theo-jacquin@naver.com
